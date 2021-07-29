@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+hellow its the first stash try
+=======
+hellow its the first stash try 
+this is my second try
+>>>>>>> Stashed changes
